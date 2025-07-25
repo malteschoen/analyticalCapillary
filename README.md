@@ -20,8 +20,8 @@ From this we can then get (by multiplying 1e9 and 1e-7) that you can make the re
 
 For the pressure drop in a cylindrical capillary we have:
 
-$\delta p = 8 \frac{\dot{V}}{\pi r^{4}} \eta L = 2 \dot{\gamma} \frac {\eta L}{r}$
+$\Delta p = 8 \frac{\dot{V}}{\pi r^{4}} \eta L = 2 \dot{\gamma} \frac {1}{r} \eta L$
 
 Now if we set the radius to 1.085 mm and the length to 54 mm (54 mm = 2 inches) for an L/D of 25 we achieve:
 
-$\delta p =  \frac{\dot{V}}{1} \eta  =  \dot{\gamma} \frac {\eta L}{1}$
+$\Delta p =  \dot{V} \eta  L=  \dot{\gamma} \eta L$
